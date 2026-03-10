@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+1-Collecte, nettoyage et préparation des données pour l'entraînement des modèles.
+2-conception et implémentation de modèles de machine learning ou deep learning.
 3- Évaluation des performances des modèles à l'aide de métriques appropriées (accuracy, précision, rappel, F1-score, etc.).
+>>>>>>> journaln2
